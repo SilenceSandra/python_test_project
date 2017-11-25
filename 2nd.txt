@@ -1,3 +1,4 @@
 
 one more file to commit new CONFLICT
+new feature for new branch
 
